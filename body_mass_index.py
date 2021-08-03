@@ -15,8 +15,8 @@ elif Result <= 29.9:
 elif Result <= 39.9:
     print(" low-risk Obesity")
 elif Result <= 34.9:
-    print("Obese (Class 1) ")
+    print("Obese (Class 1)")
 elif Result <= 39.9:
-    print("Obese (Class 2) ")   
+    print("Obese (Class 2)")   
 else:
-    print("Obese (Class 3) ")
+    print("Obese (Class 3)")
